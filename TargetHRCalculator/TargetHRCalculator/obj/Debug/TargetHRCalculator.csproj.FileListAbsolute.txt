@@ -1,0 +1,6 @@
+C:\Dev\Code Challenges\C#\TargetHRCalculator\TargetHRCalculator\TargetHRCalculator\bin\Debug\TargetHRCalculator.exe.config
+C:\Dev\Code Challenges\C#\TargetHRCalculator\TargetHRCalculator\TargetHRCalculator\obj\Debug\TargetHRCalculator.csprojResolveAssemblyReference.cache
+C:\Dev\Code Challenges\C#\TargetHRCalculator\TargetHRCalculator\TargetHRCalculator\bin\Debug\TargetHRCalculator.exe
+C:\Dev\Code Challenges\C#\TargetHRCalculator\TargetHRCalculator\TargetHRCalculator\bin\Debug\TargetHRCalculator.pdb
+C:\Dev\Code Challenges\C#\TargetHRCalculator\TargetHRCalculator\TargetHRCalculator\obj\Debug\TargetHRCalculator.exe
+C:\Dev\Code Challenges\C#\TargetHRCalculator\TargetHRCalculator\TargetHRCalculator\obj\Debug\TargetHRCalculator.pdb
